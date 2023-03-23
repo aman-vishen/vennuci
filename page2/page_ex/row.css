@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.row1 {
+  position: relative;
+  background-color: var(--deep-blue);
+  width: 100%;
+  height: 317px;
+  mix-blend-mode: color;
+}

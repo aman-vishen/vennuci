@@ -1,0 +1,36 @@
+:root {
+  --heading-h5: Roboto;
+  --font-alta: Alta;
+  --text-small-normal-size: 14px;
+  --text-regular-semi-bold-size: 16px;
+  --text-medium-normal-size: 18px;
+  --heading-h6-size: 20px;
+  --heading-h5-size: 24px;
+  --heading-h2-size: 48px;
+  --refresh: #dae3ea;
+  --grey-700: #344054;
+  --nature: #343f31;
+  --deep-blue: #232f45;
+  --white: #fff;
+  --calm: #a9c0d3;
+  --black: #000;
+  --neutral-dark-gray: #505050;
+  --gap-2xs: 4px;
+  --gap-xs: 10px;
+  --gap-sm: 16px;
+  --gap-md: 24px;
+  --gap-lg: 32px;
+  --gap-xl: 40px;
+  --gap-2xl: 80px;
+  --padding-3xs: 8px;
+  --padding-2xs: 10px;
+  --padding-xs: 12px;
+  --padding-sm: 16px;
+  --padding-md: 20px;
+  --padding-lg: 24px;
+  --padding-xl: 64px;
+  --padding-2xl: 112px;
+  --br-md: 50px;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */

@@ -1,0 +1,37 @@
+:root {
+  /* fonts */
+  --heading-h5: Roboto;
+  --font-alta: Alta;
+
+  /* font sizes */
+  --text-small-normal-size: 14px;
+  --text-regular-semi-bold-size: 16px;
+  --text-medium-normal-size: 18px;
+  --heading-h5-size: 24px;
+  --heading-h3-size: 40px;
+  --heading-h2-size: 48px;
+
+  /* Colors */
+  --nature: #343f31;
+  --deep-blue: #232f45;
+  --white: #fff;
+  --black: #000;
+  --neutral-dark-gray: #505050;
+  --refresh: #dae3ea;
+
+  /* Gaps */
+  --gap-2xs: 12px;
+  --gap-xs: 16px;
+  --gap-sm: 24px;
+  --gap-md: 48px;
+  --gap-lg: 64px;
+  --gap-xl: 80px;
+  --gap-2xl: 128px;
+
+  /* Paddings */
+  --padding-xs: 8px;
+  --padding-sm: 12px;
+  --padding-md: 24px;
+  --padding-lg: 64px;
+  --padding-xl: 112px;
+}

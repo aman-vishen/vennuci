@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.leather-brown-texture-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 283px;
+  object-fit: cover;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--nature);
+  width: 1440px;
+  height: 282px;
+  mix-blend-mode: color;
+}
+.ready-to-take,
+.were-hiring {
+  align-self: stretch;
+  position: relative;
+  line-height: 130%;
+}
+.ready-to-take {
+  font-size: var(--text-medium-bold-size);
+  line-height: 150%;
+}
+.content51 {
+  position: absolute;
+  top: -25px;
+  left: 0;
+  width: 768px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.button19 {
+  position: relative;
+  line-height: 150%;
+}
+.button18 {
+  position: absolute;
+  top: 108px;
+  left: 305.5px;
+  border: 1px solid var(--white1);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xs) var(--padding-md);
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--text-regular-semi-bold-size);
+  color: var(--white1);
+}
+.content50 {
+  position: absolute;
+  top: 70px;
+  left: 342px;
+  width: 768px;
+  height: 157px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 282px;
+}
+.leather-brown-texture-1-parent {
+  position: relative;
+  width: 100%;
+  height: 283px;
+  text-align: center;
+  font-size: var(--heading-h4-size);
+  color: var(--refresh);
+  font-family: var(--text-small-semi-bold);
+}

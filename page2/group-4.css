@@ -1,0 +1,239 @@
+
+.our-vision {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.to-create-a {
+  position: relative;
+  font-size: var(--heading-h5-size);
+  line-height: 140%;
+  display: inline-block;
+  color: var(--refresh);
+  text-align: center;
+  width: 768px;
+}
+.container1,
+.layout-140 {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+.container1 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-xs);
+}
+.layout-140 {
+
+
+  position: absolute;
+  
+  left: 0;
+  background-color: var(--nature);
+  width: 100%;
+  height: 373.68px;
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  /* padding-bottom: 400px; */
+}
+.at-our-company,
+.what-matters-to {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.at-our-company {
+  font-size: var(--text-medium-bold-size);
+  line-height: 150%;
+  color: var(--refresh);
+}
+.content52,
+.section-title12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content52 {
+  align-self: stretch;
+  gap: var(--gap-md);
+  text-align: left;
+  font-size: var(--heading-h2-size);
+  color: var(--calm);
+}
+.section-title12 {
+  width: 768px;
+  gap: var(--gap-xs);
+}
+.placeholder-image12 {
+  padding-left: 50px;
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 240px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.accountability,
+.our-team-of {
+  align-self: stretch;
+  position: relative;
+  line-height: 130%;
+}
+.our-team-of {
+  font-size: var(--text-regular-semi-bold-size);
+  line-height: 150%;
+}
+.column25,
+.content54 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content54 {
+  align-self: stretch;
+  gap: var(--gap-md);
+}
+.column25 {
+  flex: 1;
+  overflow: hidden;
+  gap: var(--gap-lg);
+}
+.we-believe-in {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--text-regular-semi-bold-size);
+  line-height: 150%;
+  color: var(--refresh);
+}
+.content53,
+.layout-249,
+.row5 {
+  display: flex;
+  align-items: flex-start;
+}
+.row5 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.content53,
+.layout-249 {
+  flex-direction: column;
+}
+.content53 {
+  align-self: stretch;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--heading-h4-size);
+  color: var(--calm);
+}
+.layout-249 {
+  position: absolute;
+  top: 374px;
+  left: 0;
+  background-color: var(--deep-blue);
+  width: 100%;
+  height: 1009.77px;
+  overflow: hidden;
+  padding: var(--padding-3xl) var(--padding-xl);
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-4xl);
+  text-align: center;
+  color: var(--deep-blue);
+}
+.a-common-concern {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--text-medium-bold-size);
+  line-height: 150%;
+}
+.content57 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  /* gap: var(--gap-md); */
+  font-size: var(--heading-h2-size);
+  color: var(--deep-blue);
+}
+.placeholder-image15 {
+  position: relative;
+  width: 395px;
+  height: 395px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.full-name {
+  align-self: stretch;
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.title {
+  align-self: stretch;
+  align-items: center;
+}
+.card,
+.content60,
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content60 {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-xs);
+}
+.card {
+  flex: 1;
+  align-items: flex-start;
+  gap: var(--gap-md);
+}
+.content59 {
+  align-self: stretch;
+}
+.content58,
+.content59,
+.team-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content58 {
+  width: 100%;
+  font-size: var(--text-large-semi-bold-size);
+  color: var(--deep-blue);
+}
+.team-8 {
+  position: absolute;
+  top: 1384px;
+  left: 0;
+  background-color: var(--refresh);
+  width: 100%;
+  height: 1013px;
+  overflow: hidden;
+  padding: var(--padding-3xl) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-4xl);
+  color: var(--nature);
+}
+.layout-140-parent {
+  position: relative;
+  width: 100%;
+  height: 2397px;
+  text-align: left;
+  font-size: var(--text-regular-semi-bold-size);
+  color: var(--calm);
+  font-family: var(--text-small-semi-bold);
+}

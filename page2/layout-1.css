@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.who-we-are {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.antonio-venucci {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.we-take-great {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.we-are-dedicated {
+  margin: 0;
+}
+.at-antonio-venucci-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--text-medium-normal-size);
+  line-height: 150%;
+  color: var(--nature);
+}
+.content16,
+.content17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content17 {
+  align-self: stretch;
+  gap: var(--gap-sm);
+  text-align: left;
+  font-size: var(--heading-h2-size);
+  color: var(--deep-blue);
+}
+.content16 {
+  width: 589px;
+  flex-shrink: 0;
+  gap: var(--gap-xs);
+}
+.layout-1,
+.placeholder-image1 {
+  position: relative;
+  overflow: hidden;
+}
+.placeholder-image1 {
+  flex: 1;
+  max-width: 100%;
+  height: 640px;
+  object-fit: cover;
+}
+.layout-1 {
+  background-color: var(--refresh);
+  width: 100%;
+  height: 856px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xl) var(--padding-lg);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--text-regular-semi-bold-size);
+  color: var(--nature);
+  font-family: var(--heading-h5);
+}

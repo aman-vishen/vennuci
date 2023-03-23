@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.content-child {
+  position: relative;
+  width: 238px;
+  height: 37.31px;
+  flex-shrink: 0;
+}
+.home {
+  position: relative;
+  line-height: 150%;
+}
+.chevron-down-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.nav-link-dropdown1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+}
+.column8,
+.column9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.column9 {
+  overflow: hidden;
+  align-items: flex-start;
+  gap: var(--gap-lg);
+}
+.column8 {
+  align-items: center;
+}
+.button13 {
+  position: relative;
+  font-size: var(--text-regular-semi-bold-size);
+  line-height: 150%;
+  font-family: var(--text-small-semi-bold);
+  color: var(--deep-blue);
+  text-align: left;
+}
+.button12 {
+  cursor: pointer;
+  border: 1px solid var(--deep-blue);
+  padding: var(--padding-3xs) var(--padding-md);
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.button15 {
+  position: relative;
+  font-size: var(--text-regular-semi-bold-size);
+  line-height: 150%;
+  font-family: var(--text-small-semi-bold);
+  color: var(--white);
+  text-align: left;
+}
+.button14,
+.column10 {
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.button14 {
+  border: 1px solid var(--deep-blue);
+  padding: var(--padding-3xs) var(--padding-md);
+  background-color: var(--deep-blue);
+}
+.column10 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  gap: var(--gap-sm);
+}
+.content25,
+.en {
+  position: absolute;
+}
+.content25 {
+  top: 0;
+  left: 0;
+  background-color: var(--refresh);
+  box-shadow: 0-1px 0#000 inset;
+  width: 1440px;
+  height: 72px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+}
+.en {
+  top: 24px;
+  left: 1390px;
+  line-height: 150%;
+}
+.content-root {
+  position: relative;
+  width: 100%;
+  height: 72px;
+  text-align: left;
+  font-size: var(--text-regular-semi-bold-size);
+  color: var(--deep-blue);
+  font-family: var(--text-small-semi-bold);
+}

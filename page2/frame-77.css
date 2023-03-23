@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.sustainability {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.every-step-matters,
+.we-are-committed {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.we-are-committed {
+  font-size: var(--text-medium-normal-size);
+  line-height: 150%;
+}
+.content5,
+.section-title3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content5 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--heading-h2-size);
+}
+.section-title3 {
+  position: absolute;
+  top: 0;
+  left: 272px;
+  width: 768px;
+  align-items: center;
+  gap: var(--gap-xs);
+}
+.icon-relume {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.column9,
+.content8,
+.content9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content9 {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--heading-h5);
+  font-size: var(--heading-h5-size);
+  align-self: stretch;
+  align-items: flex-start;
+}
+.column9,
+.content8 {
+  width: 240px;
+  align-items: center;
+  gap: var(--gap-sm);
+}
+.column9 {
+  width: 303px;
+  flex-shrink: 0;
+  gap: var(--gap-lg);
+}
+.placeholder-image {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 540px;
+  object-fit: cover;
+}
+.green-energy,
+.lorem-ipsum-dolor {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+}
+.lorem-ipsum-dolor {
+  font-size: var(--text-regular-semi-bold-size);
+  line-height: 150%;
+}
+.content15,
+.content7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.content7 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-md);
+}
+.content6,
+.section-title-parent {
+  position: absolute;
+  left: 0;
+  width: 1312px;
+}
+.content6 {
+  top: 283px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  font-size: var(--heading-h5-size);
+}
+.section-title-parent {
+  top: 0;
+  height: 935px;
+}
+.group-root {
+  position: relative;
+  width: 100%;
+  height: 935px;
+  text-align: center;
+  font-size: var(--text-regular-semi-bold-size);
+  color: var(--black);
+  font-family: var(--heading-h5);
+}
