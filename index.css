@@ -463,11 +463,12 @@ body {
 }
 .section-title9_gal_13 {
   width: 768px;
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
   gap: var(--gap-md);
+  
 }
 .button12,
 .button13 {
@@ -1326,11 +1327,20 @@ color:  #DAE3EA;;
   line-height: 150%;
   font-weight: 600;
 }
-.get-the-latest,
+.get-the-latest{
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+  font-size: var(--text-medium-normal-size);
+}
+
+
 .lorem-ipsum-dolor8 {
   align-self: stretch;
   position: relative;
   line-height: 120%;
+  
 }
 .lorem-ipsum-dolor8 {
   font-size: var(--text-medium-normal-size);
@@ -1597,14 +1607,15 @@ color:  #DAE3EA;;
   height: 776px;
 }
 .section-title9 {
-  position: absolute;
+  /* position: absolute; */
   top: 0;
   left: 0;
   width: 500px;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   align-items: flex-start;
-  justify-content: flex-start;
+  justify-content: flex-start; */
+  flex: 30%;
   gap: var(--gap-md);
 }
 .divider8 {
@@ -1743,22 +1754,26 @@ color:  #DAE3EA;;
   flex-shrink: 0;
 }
 .accordion {
-  position: absolute;
-  top: 0;
+  /* position: absolute;
+  top: 0; */
   left: 580px;
   width: 732px;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   align-items: flex-start;
-  justify-content: flex-start;
+  justify-content: flex-start; */
   font-size: var(--text-medium-normal-size);
 }
 .group-wrapper {
-  position: absolute;
-  top: 50px;
-  left: 0;
+  margin-top: 40px;
+  /* position: absolute; */
+  /* top: 50px; */
+  /* left: 0; */
   width: 1312px;
   height: 1147px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--gap-md);
 }
 .faq-3-inner {
   position: relative;
@@ -1773,7 +1788,8 @@ color:  #DAE3EA;;
  
   left: 0;
   width: 100%;
-  height: 1466px;
+  height: auto;
+  overflow: auto;
 }
 .faq-3 {
   top: 0;
@@ -2194,4 +2210,39 @@ flex-grow: 0;
   font-size: var(--text-regular-semi-bold-size);
   color: var(--black);
   font-family: var(--text-small-semi-bold);
+}
+
+
+.box {
+  /* display: flex; */
+  flex: 50%;
+  /* flex-direction: column; */
+  justify-content: space-between;
+  height: 500px;
+}
+
+
+.accordflex {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.faq1stflex
+{ 
+  margin-top: 45px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    /* flex: 30%; */
+    gap: var(--gap-md);
+
+}
+.panel1{
+  display: none;
 }
