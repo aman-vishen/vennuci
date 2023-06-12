@@ -2246,3 +2246,93 @@ flex-grow: 0;
 .panel1{
   display: none;
 }
+
+
+
+.content4,
+.layout-192 {
+  
+  justify-content: center;
+}
+.content4 {
+  text-align: center;
+  font-size: var(--text-regular-normal-size);
+  color: var(--deep-blue);
+  font-family: var(--text-regular-normal);
+  height: 80%;
+  
+  /* position: absolute; */
+  /* width: 620px; */
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-11xl);
+  flex: 50%;
+}
+
+.div1_pic{
+/* position: absolute; */
+flex: 50%;
+}
+
+.layout-192 {
+  position: absolute;
+  top: 803px;
+  left: 0;
+  width: 100%;
+  height: 711px;
+  display: flex;
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-93xl) var(--padding-93xl) var(--padding-93xl) 0;
+  box-sizing: border-box;
+  align-items: center;
+  gap: var(--gap-61xl);
+  background: linear-gradient(180deg, #dae3ea, #fff);
+  /* flex-wrap: wrap;home-3 */
+}
+.pexels-mart-production-8801089-icon {
+  position: relative;
+  width: 650.5px;
+  height: 707px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.our-collection-features1,
+.womens-accessories {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  width: 597px;
+}
+.our-collection-features1 {
+  font-size: var(--text-medium-normal-size);
+  line-height: 150%;
+  font-family: var(--text-regular-normal);
+  color: var(--deep-blue);
+}
+.button8,
+.section-title6 {
+  display: flex;
+  justify-content: center;
+}
+.section-title6 {
+  width: 620px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-base);
+}
+.button8 {
+  border: 1px solid var(--grey-700);
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-5xl);
+  align-items: center;
+}
+.actions3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  color: var(--grey-700);
+}
