@@ -8,13 +8,13 @@
   flex-direction: column;
   min-height: 11270px;
   overflow-x: hidden;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .overlap-group3 {
   height: 866px;
   position: relative;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .placeholder-image-3 {
@@ -22,18 +22,18 @@
   left: 0;
   position: absolute;
   top: 66px;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .group-42 {
   align-items: center;
   display: flex;
   flex-direction: column;
-  left: 337px;
+  /* left: 337px; */
   min-height: 234px;
   position: absolute;
   top: 365px;
-  width: 747px;
+  width: 100%;
 }
 
 .home-3 .group-35 {
@@ -89,7 +89,7 @@
   padding: 0px 64px;
   position: absolute;
   top: 0;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .column-2 {
@@ -152,7 +152,7 @@
   height: 2689px;
   margin-left: 0;
   position: relative;
-  width: 1528px;
+  width: 100%;
 }
 
 .home-3 .cta-36 {
@@ -170,7 +170,7 @@
 
 .home-3 .layout-241 {
   align-items: center;
-  gap: 160px;
+  gap: 250px;
   left: 0;
   padding: 66px 120px;
   top: 36px;
@@ -179,7 +179,7 @@
 .home-3 .placeholder-image {
   height: 513px;
   margin-bottom: -8.00px;
-  margin-left: -4.00px;
+  margin-left: 100.00px;
   min-width: 496px;
   position: relative;
 }
@@ -301,7 +301,7 @@
 
 .home-3 .layout-242 {
   align-items: center;
-  gap: 160px;
+  gap: 250px;
   left: 0;
   padding: 66px 120px;
   top: 673px;
@@ -329,6 +329,7 @@
   gap: 24px;
   position: relative;
   width: 550px;
+  margin-left: 100px;
 }
 
 .home-3 .enhance-your-brands {
@@ -388,7 +389,7 @@
 .home-3 .overlap-group5 {
   height: 804px;
   position: relative;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .gallery-13 {
@@ -404,7 +405,7 @@
   padding: 112px 0px 0px;
   position: absolute;
   top: 518px;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .section-title-4 {
@@ -556,7 +557,7 @@
 .home-3 .overlap-group4 {
   height: 2268px;
   position: relative;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .group-45 {
@@ -572,7 +573,7 @@
   left: 0;
   position: absolute;
   top: 893px;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .layout-121 {
@@ -646,7 +647,7 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 741px;
+  left: 950px;
   min-height: 1168px;
   position: absolute;
   top: 124px;
@@ -761,13 +762,13 @@
   background-position: 50% 50%;
   background-size: cover;
   display: flex;
-  gap: 1264px;
+  gap: 95%;
   height: 900px;
   left: 0;
   padding: 0 32px;
   position: absolute;
   top: 0;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .button-2 {
@@ -789,7 +790,7 @@
   height: 3874px;
   margin-top: 41px;
   position: relative;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .group-30 {
@@ -800,7 +801,7 @@
   min-height: 3424px;
   position: absolute;
   top: 450px;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .blog-34 {
@@ -1105,7 +1106,7 @@
 .home-3 .cta-34 {
   align-items: center;
   display: flex;
-  gap: 212px;
+  gap: 450px;
   height: 525px;
   justify-content: center;
   overflow: hidden;
@@ -1209,7 +1210,7 @@
   gap: 30px;
   margin-top: 109px;
   min-height: 552px;
-  width: 1312px;
+  width: 100%;
 }
 
 .home-3 .group-22 {
@@ -1218,6 +1219,7 @@
   flex-direction: column;
   gap: 30px;
   min-height: 468px;
+  margin-left: 150px;
   width: 1312px;
 }
 
@@ -1405,7 +1407,7 @@
   flex-direction: column;
   gap: 32px;
   position: relative;
-  width: 1312px;
+  width: 100%;
 }
 
 .home-3 .divider-3 {
@@ -1482,7 +1484,7 @@
 .home-3 .cta {
   left: 0;
   position: absolute;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .icon-chevron-right-3 {
@@ -1494,7 +1496,7 @@
 .home-3 .layout {
   display: flex;
   position: absolute;
-  width: 1440px;
+  width: 100%;
 }
 
 .home-3 .lorem-ipsum-dolor-si-3 {
