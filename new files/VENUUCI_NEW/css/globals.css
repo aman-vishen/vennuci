@@ -182,7 +182,7 @@
   line-height: 33.6px;
   margin-top: -1.00px;
   position: relative;
-  white-space: nowrap;
+  /* white-space: nowrap; */
 }
 
 .icon-chevron-right {

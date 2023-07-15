@@ -1,0 +1,111 @@
+/* screen - cta-34 */
+
+.cta-34 {
+  border: 1px none;
+  gap: 212px;
+  height: 525px;
+  justify-content: center;
+  min-width: 1440px;
+  overflow: hidden;
+  padding: 127px 0px 112px;
+  width: 100%;
+}
+
+.cta-34 .group-52 {
+  height: 414.26px;
+  margin-bottom: -64.13px;
+  margin-left: -236.04px;
+  margin-top: -64.13px;
+  min-width: 1912.08px;
+  position: relative;
+}
+
+.cta-34 .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 212px;
+  min-width: 1676px;
+}
+
+.cta-34 .group-49 {
+  align-items: flex-start;
+  display: flex;
+  margin-bottom: 0;
+  min-width: 411px;
+  padding: 0 117.8px;
+  transform: rotate(90.00deg);
+}
+
+.cta-34 .mask-group {
+  height: 411px;
+  margin-top: -117.76px;
+  transform: rotate(-90.00deg);
+  width: 175px;
+}
+
+.cta-34 .content {
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 0;
+  width: 682px;
+}
+
+.cta-34 .content-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.cta-34 .if-you-have-any-ques {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+}
+
+.cta-34 .frame-75 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: 138.84px;
+}
+
+.cta-34 .button {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--casper);
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -20.16px;
+  margin-top: -1.00px;
+  padding: 12px 24px;
+  width: fit-content;
+}
+
+.cta-34 .button-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cta-34 .mask-group-1 {
+  height: 414px;
+  width: 159px;
+}
+
+.cta {
+  align-items: center;
+  display: flex;
+  position: relative;
+}

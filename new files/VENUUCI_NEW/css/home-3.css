@@ -170,7 +170,7 @@
 
 .home-3 .layout-241 {
   align-items: center;
-  gap: 250px;
+  gap: 300px;
   left: 0;
   padding: 66px 120px;
   top: 36px;
@@ -252,7 +252,7 @@
 
 .home-3 .layout-243 {
   align-items: center;
-  gap: 160px;
+  gap: 300px;
   left: 0;
   padding: 66px 120px;
   top: 1346px;
@@ -301,7 +301,7 @@
 
 .home-3 .layout-242 {
   align-items: center;
-  gap: 250px;
+  gap: 350px;
   left: 0;
   padding: 66px 120px;
   top: 673px;
@@ -348,7 +348,7 @@
 
 .home-3 .layout-244 {
   align-items: center;
-  gap: 80px;
+  gap: 300px;
   left: 88px;
   padding: 66px 120px;
   top: 1983px;
@@ -758,7 +758,7 @@
 
 .home-3 .placeholder-image-5 {
   align-items: center;
-  background-image: url(../img/placeholder---image-4.png);
+  background-image: url(../img/Property\ 1=Variant2.jpg);
   background-position: 50% 50%;
   background-size: cover;
   display: flex;
@@ -1424,6 +1424,7 @@
   display: flex;
   justify-content: space-between;
   position: relative;
+  margin: 0px 40px;
 }
 
 .home-3 .footer-links-2 {
@@ -1455,7 +1456,7 @@
   line-height: 33.6px;
   margin-top: -1.00px;
   position: relative;
-  white-space: nowrap;
+  /* white-space: pre-line; */
 }
 
 .home-3 .card-3 {
@@ -1496,7 +1497,7 @@
 .home-3 .layout {
   display: flex;
   position: absolute;
-  width: 100%;
+  /* width: 100%; */
 }
 
 .home-3 .lorem-ipsum-dolor-si-3 {
